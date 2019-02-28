@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+git clone https://aur.archlinux.org/yay.git
+
+cd yay
+makepkg -si
+cd ..
+yay --needed -S `cat pkg`
+
+sudo systemctl enable NetworkManager
+sudo systemctl enable ufw
+
+sudo ufw enabel
+
+
+sudo mkdir /etc/X11/xorg.conf.d/
+sudo cp touchpad/40-libinput.conf /etc/X11/xorg.conf.d/
+
+xdg-mime default feh.desktop image/png
+xdg-mime default org.pwmt.zathura-pdf-mupdf.desktop application/pdf
