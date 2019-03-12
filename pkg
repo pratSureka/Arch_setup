@@ -1,9 +1,11 @@
 acpi
+alacritty
 alsa-utils
 arc-gtk-theme
 autoconf
 automake
 bash
+bash-language-server
 bdf-unifont
 betterlockscreen
 binutils
@@ -31,6 +33,7 @@ file
 filesystem
 findutils
 firefox
+flake8
 flex
 fzf
 gawk
@@ -51,7 +54,10 @@ imagemagick
 inetutils
 iproute2
 iputils
+jdk-openjdk
+jdtls
 jfsutils
+jre-openjdk
 less
 libtool
 licenses
@@ -59,6 +65,7 @@ light
 linux
 linux-firmware
 logrotate
+lsd
 lvm2
 lxappearance
 m4
@@ -75,7 +82,6 @@ nano
 ncmpcpp
 neofetch
 neovim
-nerd-fonts-dejavu-complete
 netctl
 network-manager-applet
 networkmanager
@@ -95,16 +101,16 @@ pkgconf
 polybar-git
 procps-ng
 psmisc
+python-jedi
+python-language-server
 python-neovim
 python-pip
-python-pywal
 python2-pip
-qutebrowser
 ranger
 redshift
 reiserfsprogs
 rofi
-rxvt-unicode
+rxvt-unicode-256xresources
 s-nail
 scrot
 sed
@@ -126,6 +132,8 @@ ttf-emojione-color
 ttf-fixedsys-excelsior-linux
 ttf-font-awesome
 ttf-font-awesome-4
+ttf-font-icons
+ttf-nerd-fonts-hack-complete-git
 ttf-symbola
 tuimoji
 ufw
@@ -153,7 +161,6 @@ xorg-fonts-encodings
 xorg-fonts-misc
 xorg-iceauth
 xorg-luit
-xorg-mkfontdir
 xorg-mkfontscale
 xorg-server
 xorg-server-common
