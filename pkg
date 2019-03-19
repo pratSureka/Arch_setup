@@ -5,7 +5,6 @@ arc-gtk-theme
 autoconf
 automake
 bash
-bash-language-server
 bdf-unifont
 betterlockscreen
 binutils
@@ -102,7 +101,6 @@ polybar-git
 procps-ng
 psmisc
 python-jedi
-python-language-server
 python-neovim
 python-pip
 python2-pip

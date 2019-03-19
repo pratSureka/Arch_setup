@@ -8,9 +8,11 @@ cd ..
 yay --needed -S `cat pkg`
 
 sudo systemctl enable NetworkManager
+sudo systemctl start NetworkManager
 sudo systemctl enable ufw
 
 sudo ufw enabel
+sudo systemctl start ufw
 
 
 sudo mkdir /etc/X11/xorg.conf.d/
