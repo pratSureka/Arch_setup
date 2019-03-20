@@ -10,7 +10,6 @@ betterlockscreen
 binutils
 bison
 breeze-obsidian-cursor-theme
-bspwm
 bzip2
 clang
 compton-tryone-git
@@ -24,6 +23,7 @@ dialog
 diffutils
 dmenu
 dunst
+dzen2
 e2fsprogs
 fakeroot
 feh
@@ -48,6 +48,7 @@ grep
 groff
 gtop
 gzip
+herbstluftwm
 htop
 imagemagick
 inetutils
@@ -64,7 +65,6 @@ light
 linux
 linux-firmware
 logrotate
-lsd
 lvm2
 lxappearance
 m4
@@ -114,11 +114,11 @@ scrot
 sed
 shadow
 siji-git
+simple-mtpfs-git
 spotify
 staruml
 stow
 sudo
-sxhkd
 sxiv
 sysfsutils
 systemd
@@ -131,7 +131,7 @@ ttf-fixedsys-excelsior-linux
 ttf-font-awesome
 ttf-font-awesome-4
 ttf-font-icons
-ttf-nerd-fonts-hack-complete-git
+ttf-mononoki
 ttf-symbola
 tuimoji
 ufw
