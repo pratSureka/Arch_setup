@@ -9,13 +9,10 @@ yay --needed -S `cat pkg`
 
 sudo systemctl enable NetworkManager
 sudo systemctl start NetworkManager
-sudo systemctl enable ufw
 
-sudo ufw enabel
-sudo systemctl start ufw
+sudo systemctl enable bluetooth
+sudo systemctl start bluetooth
 
-
-sudo mkdir /etc/X11/xorg.conf.d/
 sudo cp touchpad/40-libinput.conf /etc/X11/xorg.conf.d/
 
 xdg-mime default feh.desktop image/png

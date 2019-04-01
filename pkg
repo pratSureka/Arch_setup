@@ -1,5 +1,6 @@
 acpi
 alacritty
+alsa-firmware
 alsa-utils
 arc-gtk-theme
 autoconf
@@ -9,7 +10,9 @@ bash
 bdf-unifont
 binutils
 bison
-breeze-obsidian-cursor-theme
+blueberry
+bluez
+bluez-utils
 bzip2
 clang
 compton-tryone-git
@@ -28,7 +31,6 @@ ffmpeg
 file
 filesystem
 findutils
-firefox
 flake8
 flex
 fzf
@@ -41,8 +43,14 @@ git
 glibc
 gnome-icon-theme
 gnome-keyring
+google-chrome
 grep
 groff
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer
 gtop
 gzip
 herbstluftwm
@@ -52,7 +60,6 @@ imagemagick
 inetutils
 iproute2
 iputils
-jdtls
 jfsutils
 less
 libtool
@@ -90,6 +97,7 @@ ntfs-3g
 pacman
 papirus-icon-theme
 patch
+pavucontrol
 pciutils
 perl
 picard
@@ -97,6 +105,10 @@ pkgconf
 polybar-git
 procps-ng
 psmisc
+pulseaudio
+pulseaudio-alsa
+pulseaudio-bluetooth
+pulsemixer
 python-jedi
 python-neovim
 python-pip
@@ -112,10 +124,7 @@ s-nail
 scrot
 sed
 shadow
-siji-git
 simple-mtpfs-git
-spotify
-staruml
 stow
 sudo
 sxiv
@@ -126,7 +135,6 @@ tar
 texinfo
 tree
 ttf-font-awesome
-ttf-mononoki-git
 ufw
 unclutter
 unzip
