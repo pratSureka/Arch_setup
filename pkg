@@ -1,4 +1,5 @@
 acpi
+advcp
 alacritty
 alsa-firmware
 alsa-utils
@@ -10,12 +11,13 @@ bash
 bdf-unifont
 binutils
 bison
-blueberry
+blueman
 bluez
 bluez-utils
 bzip2
 clang
 compton-tryone-git
+conky
 coreutils
 cryptsetup
 ctags
@@ -43,7 +45,7 @@ git
 glibc
 gnome-icon-theme
 gnome-keyring
-google-chrome
+gotop-bin
 grep
 groff
 gst-plugins-bad
@@ -51,10 +53,8 @@ gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
 gstreamer
-gtop
 gzip
 herbstluftwm
-htop
 i3lock
 imagemagick
 inetutils
@@ -84,11 +84,11 @@ nano
 ncmpcpp
 neofetch
 neovim
-nerd-fonts-roboto-mono
+nerd-fonts-ubuntu-mono
 netctl
 network-manager-applet
 networkmanager
-nnn
+nnn-git
 nodejs
 noto-fonts
 noto-fonts-emoji
@@ -113,7 +113,6 @@ python-jedi
 python-neovim
 python-pip
 python2-pip
-qutebrowser
 ranger
 redshift
 reflector
@@ -135,6 +134,7 @@ tar
 texinfo
 tree
 ttf-font-awesome
+tuimoji
 ufw
 unclutter
 unzip
@@ -143,6 +143,9 @@ urxvt-perls
 usbutils
 util-linux
 vi
+vivaldi
+vivaldi-codecs-ffmpeg-extra-bin
+vivaldi-widevine
 w3m
 wget
 which
@@ -205,6 +208,5 @@ xsel
 xss-lock
 yay
 youtube-dl
-youtube-viewer
 zathura
 zathura-pdf-mupdf
