@@ -15,9 +15,3 @@ sudo systemctl enable bluetooth
 sudo systemctl start bluetooth
 
 sudo cp touchpad/40-libinput.conf /etc/X11/xorg.conf.d/
-
-sudo cp /usr/bin/advcp /usr/local/bin/cpg
-sudo cp /usr/bin/advmv /usr/local/bin/mvg
-
-xdg-mime default feh.desktop image/png
-xdg-mime default org.pwmt.zathura-pdf-mupdf.desktop application/pdf
