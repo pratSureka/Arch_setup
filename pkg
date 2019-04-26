@@ -5,6 +5,7 @@ alsa-firmware
 alsa-utils
 arc-gtk-theme
 autoconf
+autoconf-archive
 automake
 awesome-terminal-fonts
 bash
@@ -64,7 +65,6 @@ iputils
 jfsutils
 less
 lf-git
-libelogind
 libtool
 licenses
 light
@@ -86,9 +86,9 @@ nano
 neofetch
 neovim
 nerd-fonts-ubuntu-mono
+netctl
 network-manager-applet
 networkmanager
-networkmanager-openrc
 nodejs
 noto-fonts
 noto-fonts-emoji
@@ -102,7 +102,6 @@ pciutils
 perl
 picard
 pkgconf
-polybar-git
 procps-ng
 psmisc
 pulseaudio
@@ -123,16 +122,16 @@ sed
 shadow
 simple-mtpfs-git
 spectrwm
-spotify
 stow
 sudo
 sxiv
 sysfsutils
+systemd
+systemd-sysvcompat
 tar
 texinfo
 tree
 ttf-font-awesome
-ttf-signika
 ufw
 unclutter
 unzip
