@@ -14,4 +14,8 @@ sudo systemctl start NetworkManager
 sudo systemctl enable bluetooth
 sudo systemctl start bluetooth
 
+sudo systemctl enable ufw
+sudo systemctl start ufw
+sudo ufw enable
+
 sudo cp touchpad/40-libinput.conf /etc/X11/xorg.conf.d/
