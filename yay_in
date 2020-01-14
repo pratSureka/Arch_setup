@@ -21,3 +21,4 @@ sudo ufw enable
 systemctl enable betterlockscreen@$USER
 
 sudo cp touchpad/40-libinput.conf /etc/X11/xorg.conf.d/
+sudo cp polkit/50-udiskie.rules /etc/polkit-1/rules.d/
