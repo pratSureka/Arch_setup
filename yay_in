@@ -8,9 +8,6 @@ makepkg -si
 cd ..
 yay --needed -S `cat pkg`
 
-sudo systemctl enable NetworkManager
-sudo systemctl start NetworkManager
-
 sudo systemctl enable bluetooth
 sudo systemctl start bluetooth
 
