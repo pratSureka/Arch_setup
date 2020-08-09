@@ -32,7 +32,6 @@ gcc
 geary
 gettext
 git
-gnome-keyring
 grep
 groff
 grub
@@ -40,14 +39,12 @@ gzip
 highlight
 icaclient
 lf-git
-libgnome-keyring
 libtool
 linux
 linux-firmware
 linux-headers
 lxappearance-gtk3
 m4
-mailspring
 maim
 make
 man-db
@@ -81,7 +78,6 @@ redshift
 rofi
 scrot
 sed
-spectrwm
 stow
 sudo
 sxhkd
