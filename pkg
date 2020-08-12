@@ -51,7 +51,6 @@ make
 man-db
 man-pages
 mediainfo
-mininet-git
 mpv
 neovim
 network-manager-applet
