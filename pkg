@@ -18,7 +18,6 @@ clang
 ctags
 discord
 docker
-dunst
 efibootmgr
 fakeroot
 fd
@@ -64,8 +63,6 @@ patch
 pavucontrol
 picom-ibhagwan-git
 pkgconf
-polybar-git
-powertop
 pulseaudio
 pulseaudio-modules-bt
 pulsemixer
@@ -99,7 +96,6 @@ w3m
 which
 xf86-video-amdgpu
 xf86-video-intel
-xob-git
 xorg-server
 xorg-xbacklight
 xorg-xinit
